@@ -1,0 +1,14 @@
+C:\Users\GMany\quotable\quotable.console\bin\Debug\netcoreapp2.2\quotable.console.deps.json
+C:\Users\GMany\quotable\quotable.console\bin\Debug\netcoreapp2.2\quotable.console.runtimeconfig.json
+C:\Users\GMany\quotable\quotable.console\bin\Debug\netcoreapp2.2\quotable.console.runtimeconfig.dev.json
+C:\Users\GMany\quotable\quotable.console\bin\Debug\netcoreapp2.2\quotable.console.dll
+C:\Users\GMany\quotable\quotable.console\bin\Debug\netcoreapp2.2\quotable.console.pdb
+C:\Users\GMany\quotable\quotable.console\bin\Debug\netcoreapp2.2\quotable.core.dll
+C:\Users\GMany\quotable\quotable.console\bin\Debug\netcoreapp2.2\quotable.core.pdb
+C:\Users\GMany\quotable\quotable.console\obj\Debug\netcoreapp2.2\quotable.console.csprojAssemblyReference.cache
+C:\Users\GMany\quotable\quotable.console\obj\Debug\netcoreapp2.2\quotable.console.csproj.CoreCompileInputs.cache
+C:\Users\GMany\quotable\quotable.console\obj\Debug\netcoreapp2.2\quotable.console.AssemblyInfoInputs.cache
+C:\Users\GMany\quotable\quotable.console\obj\Debug\netcoreapp2.2\quotable.console.AssemblyInfo.cs
+C:\Users\GMany\quotable\quotable.console\obj\Debug\netcoreapp2.2\quotable.console.csproj.CopyComplete
+C:\Users\GMany\quotable\quotable.console\obj\Debug\netcoreapp2.2\quotable.console.dll
+C:\Users\GMany\quotable\quotable.console\obj\Debug\netcoreapp2.2\quotable.console.pdb
